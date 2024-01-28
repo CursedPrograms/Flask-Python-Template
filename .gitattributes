@@ -27,3 +27,8 @@
 *.svg linguist-generated=false
 *.svg linguist-documentation=false
 *.svg linguist-detectable=true
+
+*.xml linguist-vendored=false
+*.xml linguist-generated=false
+*.xml linguist-documentation=false
+*.xml linguist-detectable=true
