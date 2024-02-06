@@ -18,6 +18,13 @@
 
 To make the setup script executable, run the following command in your terminal:
 
+## How to Run:
+```bash
+pip install -r requirements.txt
+```
+```bash
+python app.py
+```
 ```bash
 chmod +x setup.sh
 ```
