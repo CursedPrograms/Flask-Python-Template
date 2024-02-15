@@ -12,3 +12,8 @@
 *.svg linguist-generated=false
 *.svg linguist-documentation=false
 *.svg linguist-detectable=true
+
+*.yml linguist-vendored=false
+*.yml linguist-generated=false
+*.yml linguist-documentation=false
+*.yml linguist-detectable=true
