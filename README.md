@@ -24,22 +24,38 @@
 
 # Flask-Python-Template
 
-To make the setup script executable, run the following command in your terminal:
+<br>
 
 ## How to Run:
 ```bash
 pip install -r requirements.txt
 ```
+  <br>
+
 ```bash
-python app.py
+python main.py
 ```
+  <br>
+
 To make the setup script executable, run the following command in your terminal:
+
 ```bash
 chmod +x setup.sh
 ```
-<br>
+
+  <br>
+
+## Requirements:
+
+```bash
+
+```
+
 <div align="center">
-<a href="https://cursed-entertainment.itch.io/" target="_blank">
+© Cursed Entertainment 202*
+</div>
+<div align="center">
+<a href="https://github.com/CursedPrograms" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
         alt="CursedEntertainment Logo" style="width:250px;">
 </a>
