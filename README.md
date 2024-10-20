@@ -48,7 +48,7 @@ chmod +x setup.sh
 ## Requirements:
 
 ```bash
-
+flask
 ```
 
 <div align="center">
